@@ -1,0 +1,26 @@
+Tue Apr 21 12:12:22 2026
+[INFO]: Starting the SceneManager
+[INFO]: OpenGL version: 4.6.0 NVIDIA 595.97
+[INFO]: Graphics card vendor NVIDIA Corporation
+[INFO]: Graphics card name NVIDIA GeForce RTX 5070 Ti/PCIe/SSE2
+[INFO]: GLSL Version 4.60 NVIDIA
+[INFO]: Uniforms:
+"model" loc:0
+"projection" loc:1
+"skybox" loc:2
+
+[INFO]: Created Scene5: 
+[INFO]: Loading assets Scene5: 
+[INFO]: Uniforms:
+"diffusetexture" loc:0
+"lightPos" loc:1
+"modelMatrix" loc:2
+"normaltexture" loc:3
+"projectionMatrix" loc:4
+"tesslevel" loc:5
+"textureData" loc:6
+"viewMatrix" loc:7
+
+[INFO]: Deleting the SceneManager
+[INFO]: Deleting assets Scene5: 
+[INFO]: Deleted Scene5: 
