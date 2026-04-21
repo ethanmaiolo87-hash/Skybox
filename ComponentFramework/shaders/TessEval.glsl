@@ -50,3 +50,4 @@ void main() {
     position.z = height.r;
     gl_Position =  projectionMatrix * viewMatrix * modelMatrix * position ;
 }
+//ts is WIP
